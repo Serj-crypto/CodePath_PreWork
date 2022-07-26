@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Alt Text](https://github.com/Serj-crypto/CodePath_PreWork/PreWorkCodePath.gif)
+![Alt Text](PreWorkCodePath.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
